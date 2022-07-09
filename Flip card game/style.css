@@ -12,9 +12,9 @@ body{
   justify-content: center;
   min-height: 100vh;
   background-image: url(1.png);
-  background-size: cover;
+  background-size: contain;
   background-position: center;
-  background-size: 90%;
+  background-size: 100%;
 }
 .main{
   padding: 25px; 
